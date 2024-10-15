@@ -1,0 +1,1 @@
+export const GAMELIST2 = ["X", "O", "", "", "X", "", "", "O", ""];
